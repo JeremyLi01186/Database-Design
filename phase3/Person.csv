@@ -1,0 +1,42 @@
+Person_ID,F_Name,M_Name,L_Name,Address,Gender,Birth_Date,Phone_Num
+10000,Emily,A,Navathe,"2665 Main St., Denton, TX 75083",Female,1980/4/30,2144567626
+10001,Tom,B,Brown,"263 Green St., Dallas, TX 75076",Male,1956/1/12,2143698759
+10002,Jimmy,C,Johnson,"Apt.14, 3663 Beltline Blvd., Dallas, TX 75034",Male,1980/2/3,4697659754
+10003,Sally,D,Smith,"744 Walnut St., Dallas, TX 75074",Female,1976/3/26,2144366336
+10004,Jeniffer,E,Smack,"467 Parker St., Plano, TX 75076",Female,1957/4/5,2145674767
+10005,Smuel,F,Sunder,"18675 Chase Oak St., Frisco, TX 75034",Male,1997/5/20,9724562552
+10006,Raja,G,Farage,"556 Spring St., Mosquite, TX 75087",Male,2000/6/3,9728329317
+10007,Kenneth,H,Chenault,"2445 Wolf Creek St., Greenvill, TX 75056",Male,1979/7/16,2141348643
+10008,Brett,I,Cotton,"24567 Walnut St., The Colony, TX 75032",Male,1956/8/19,4692953694
+10009,Adam,J,Daley,"865 Park St., Garland, TX 75073",Male,1935/9/24,4694783688
+10010,George,K,Cobb,"263 Beltline Ave., Carleton, TX 75008",Male,1945/1/12,4696583978
+10011,Ivor,L,Page,"1247 Floyd Rd., Richardson, TX 75075",Male,1943/8/19,9728436823
+10012,Joseph,M,Tomason,"9454 RoyleLine Blvd., Irving, TX 75042",Male,1969/11/17,9729879843
+10013,Sara,N,Gaddis,"345 King St., Fort Worth, TX 75023",Female,1974/4/27,9723459734
+10014,Aaron,A,Lee,"346 King St., Fort Worth, TX 75023",Male,1980/2/5,9723459735
+10015,Adolph,,Young,"347 King St., Fort Worth, TX 75023",Male,1980/2/6,9723459736
+10016,Alan,,King,"348 King St., Fort Worth, TX 75023",Male,1980/2/7,9723459737
+10017,Albert,, Hall,"349 King St., Fort Worth, TX 75023",Male,1980/2/8,9723459738
+10018,Alcander,,Scott,"301 King St., Fort Worth, TX 75023",Male,1980/2/9,9723459739
+10019,Alvin,,Roberts,"302 King St., Fort Worth, TX 75023",Male,1980/2/10,9723459740
+10020,Andy,,Phillips,"303 King St., Fort Worth, TX 75023",Male,1980/2/11,9723459741
+10021,Angus,,Cook,"304 King St., Fort Worth, TX 75023",Male,1980/2/12,9723459742
+10022,Anker,,Bell,"305 King St., Fort Worth, TX 75023",Male,1980/2/13,9723459743
+10023,Anthony,,Richardson,"306 King St., Fort Worth, TX 75023",Male,1980/2/14,9723459744
+10024,Asher,,Howard,"307 King St., Fort Worth, TX 75023",Male,1980/2/15,9723459745
+10025,August,,Gray,"308 King St., Fort Worth, TX 75023",Male,1980/2/16,9723459746
+20026,Bali,,Johnson,"309 King St., Fort Worth, TX 75023",Male,1980/2/17,9723459747
+20027,Barclay,,Williams,"310 King St., Fort Worth, TX 75023",Male,1980/2/18,9723459748
+20028,Barnett,,Jones,"311 King St., Fort Worth, TX 75023",Male,1980/2/19,9723459749
+20029,Barney,,Brown,"312 King St., Fort Worth, TX 75023",Male,1980/2/20,9723459750
+20030,Baron,,Davis,"313 King St., Fort Worth, TX 75023",Male,1980/2/21,9723459751
+20031,Barrett,,Miller,"314 King St., Fort Worth, TX 75023",Male,1980/2/22,9723459752
+20032,Barth,,Wilson,"315 King St., Fort Worth, TX 75023",Male,1980/2/23,9723459753
+20033,Beck,,Moore,"316 King St., Fort Worth, TX 75023",Male,1980/2/24,9723459754
+20034,Ben,,Taylor,"317 King St., Fort Worth, TX 75023",Male,1980/2/25,9723459755
+20035,Benson,,Anderson,"318 King St., Fort Worth, TX 75023",Male,1980/2/26,9723459756
+30036,Berkeley,,Thomas,"319 King St., Fort Worth, TX 75023",Male,1980/2/27,9723459757
+30037,Bern,,Jackson,"320 King St., Fort Worth, TX 75023",Male,1980/2/28,9723459758
+30038,Bert,,White,"321 King St., Fort Worth, TX 75023",Male,1980/2/29,9723459759
+30039,Bill,,Harris?,"322 King St., Fort Worth, TX 75023",Male,1980/3/1,9723459760
+30040,Billy,,Martin?,"323 King St., Fort Worth, TX 75023",Male,1980/3/2,9723459761

@@ -1,0 +1,25 @@
+CREATE TABLE PERSON 
+(
+  PERSON_ID VARCHAR(20) NOT NULL 
+, F_NAME VARCHAR(20) NOT NULL 
+, M_NAME VARCHAR(5) 
+, L_NAME VARCHAR(20) NOT NULL 
+, ADDRESS VARCHAR(40) 
+, GENDER VARCHAR(10) 
+, BITH_DATE DATE 
+, PHONE_NUMBER VARCHAR(20) 
+);
+
+CREATE VIEW TopTreatment as
+
+Select T.name
+
+From Treatment T,Payment P,
+
+Where P.T_ID=T.T_ID and 
+	exist
+(select max(count(*))
+
+	From Payment P
+Group by P.T_ID
+)
